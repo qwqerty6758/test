@@ -1,3 +1,3 @@
 hello
 
-[subfolder 1/sub1](sub1.md)
+[sub1.md](./subfolder 1/sub1)
